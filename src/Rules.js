@@ -86,7 +86,7 @@ const Rules = () => {
         <br></br>
         You must have MetaMask installed and funded with testnet MATIC to play. You must be connected to the Polygon Mumbai testnet. Each round costs
         .5 testnet MATIC to play. Your browser must have javascript enabled. You may also interact with the smart contract and submit transactions on
-        Polygonscan using the following link: <a className = "etherscan" href="https://mumbai.polygonscan.com/address/0xbD267D6a45eFD258D598bF8fFb2fDfbA3676468B#code" target="_blank">Contract</a>
+        Polygonscan using the following link: <a className = "etherscan" href="https://mumbai.polygonscan.com/address/0xc18aB8414fE98998365b74A3dE15ECcB1f19Bc54#code" target="_blank">Contract</a>
         </p>
         <div className="footer-container">
         </div>

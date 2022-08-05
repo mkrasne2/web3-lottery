@@ -71,7 +71,7 @@ const About = () => {
         <strong>Smart Contract Code:</strong>
         <br></br>
         <br></br>
-        Please feel free to explore the smart contract code that powers this game on Polygonscan: <a className = "etherscan" href="https://mumbai.polygonscan.com/address/0xbD267D6a45eFD258D598bF8fFb2fDfbA3676468B#code" target="_blank">Contract</a>
+        Please feel free to explore the smart contract code that powers this game on Polygonscan: <a className = "etherscan" href="https://mumbai.polygonscan.com/address/0xc18aB8414fE98998365b74A3dE15ECcB1f19Bc54#code" target="_blank">Contract</a>
         <br></br>
         <br></br>
         <br></br>
