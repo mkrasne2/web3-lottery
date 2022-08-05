@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/web3-lottery/static/css/main.a24eee5e.css",
-    "main.js": "/web3-lottery/static/js/main.98dbd832.js",
+    "main.js": "/web3-lottery/static/js/main.46523ce7.js",
     "static/media/polygonlogo.png": "/web3-lottery/static/media/polygonlogo.6cde40a9b9119621eb2b.png",
     "index.html": "/web3-lottery/index.html",
     "main.a24eee5e.css.map": "/web3-lottery/static/css/main.a24eee5e.css.map",
-    "main.98dbd832.js.map": "/web3-lottery/static/js/main.98dbd832.js.map"
+    "main.46523ce7.js.map": "/web3-lottery/static/js/main.46523ce7.js.map"
   },
   "entrypoints": [
     "static/css/main.a24eee5e.css",
-    "static/js/main.98dbd832.js"
+    "static/js/main.46523ce7.js"
   ]
 }
