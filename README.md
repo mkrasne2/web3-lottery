@@ -1,6 +1,6 @@
 # About the Web3 Lottery
 
-A few details about this project
+A few details about this Web3 project
 
 ## Randomness
 
