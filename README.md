@@ -4,7 +4,7 @@ A few details about this Web3 project
 
 ## Randomness
 
-I build this game to teach myself how to integrate the Chainlink VRF (Verifiable Random Function) into a smart contract. During every draw, the function automatically calls an existing subscription to VRF and recursively generates random values that get sent back as results to the original smart contract.
+I built this game to teach myself how to integrate the Chainlink VRF (Verifiable Random Function) into a smart contract. During every draw, the function automatically calls an existing subscription to VRF and recursively generates random values that get sent back as results to the original smart contract.
 
 ## Range
 
